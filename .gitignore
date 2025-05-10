@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MauiBlazorWebCrudUi/bin/Debug
+/MauiBlazorWebCrudUi/obj
+/MauiBlazorWebCrudUi.Shared/bin/Debug/net9.0
+/MauiBlazorWebCrudUi.Shared/obj
+/MauiBlazorWebCrudUi.Web/bin/Debug/net9.0
+/MauiBlazorWebCrudUi.Web/obj
+/.vs
